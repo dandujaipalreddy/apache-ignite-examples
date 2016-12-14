@@ -1,0 +1,4 @@
+rootProject.name = 'explore-ignite'
+include 'ignite-client'
+include 'ignite-shared'
+include 'ignite-server'
